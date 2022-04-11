@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @e3mii - Emanuel Radotovic
-- 👀 I’m interested in - web development, web design, game development, android apps
+- 👀 I’m interested in - android apps, web development, web design, game development
 - 🌱 I’m currently learning - Kotlin, Java in Androind Studio
 - 💞️ I’m looking to collaborate on - game development / mobile app
 - 📫 How to reach me - eradotovic@gmail.com
